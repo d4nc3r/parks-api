@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParksApi", "ParksApi\ParksA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseProxy", "ReverseProxy\ReverseProxy.csproj", "{C9901B09-5926-467B-A4DF-F90EC98AC179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutingsApi", "OutingsApi\OutingsApi.csproj", "{C52DF66F-DA5C-430E-9839-13CC71AEFCD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C9901B09-5926-467B-A4DF-F90EC98AC179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9901B09-5926-467B-A4DF-F90EC98AC179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9901B09-5926-467B-A4DF-F90EC98AC179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52DF66F-DA5C-430E-9839-13CC71AEFCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52DF66F-DA5C-430E-9839-13CC71AEFCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52DF66F-DA5C-430E-9839-13CC71AEFCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52DF66F-DA5C-430E-9839-13CC71AEFCD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
